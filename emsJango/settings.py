@@ -145,7 +145,7 @@ REST_FRAMEWORK = {
 }
 
 CORS_ALLOWED_ORIGINS = [
-    "http://localhost:8000",
+    #"http://localhost:8000",
     "http://localhost:5175",
    # "https://b02b-132-160-67-151.ngrok-free.app/",
 ]
