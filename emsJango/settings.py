@@ -148,5 +148,6 @@ CORS_ALLOWED_ORIGINS = [
     #"http://localhost:8000",
     "https://event-manager-one.vercel.app",
     "http://localhost:5173",
+    "http://localhost:5174",
    # "https://b02b-132-160-67-151.ngrok-free.app/",
 ]
