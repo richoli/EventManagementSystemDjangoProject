@@ -146,7 +146,7 @@ REST_FRAMEWORK = {
 
 CORS_ALLOWED_ORIGINS = [
     #"http://localhost:8000",
-    "https://event-manager-one.vercel.app/",
+    "https://event-manager-one.vercel.app",
     "http://localhost:5173",
    # "https://b02b-132-160-67-151.ngrok-free.app/",
 ]
